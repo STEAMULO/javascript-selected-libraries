@@ -4,5 +4,8 @@ Bienvenue dans la bibliothèque de [Steamulo](http://www.steamulo.com/), où on 
 * Apprendre/Tester les crontabs: https://crontab.guru/
 * Comment fonctionnent les flexbox: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
-## Javascript
-[Document de travail par ici](https://github.com/STEAMULO/resources/blob/master/Javascript.md)
+## Javascript / Typescript
+[Checklist de nouveau projet](https://github.com/STEAMULO/resources/blob/master/javascript-checklist-nouveau-projet.md)
+
+[Quelles librairies utiliser?](https://github.com/STEAMULO/resources/blob/master/javascript-les-libs.md)
+
