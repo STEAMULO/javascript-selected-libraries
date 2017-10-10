@@ -4,11 +4,12 @@ Bienvenue dans la bibliothèque de [Steamulo](http://www.steamulo.com/), où on 
 * Apprendre/Tester les crontabs: https://crontab.guru/
 * Comment fonctionnent les flexbox: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
+[Checklist générique de nouveau projet Steamulo](https://github.com/STEAMULO/resources/blob/master/checklist-nouveau-projet.md)
+
 ## Javascript / Typescript
+[JS Comparison Table](https://dorey.github.io/JavaScript-Equality-Table/) pour se rendre compte qu'il faut **TOUJOURS** utiliser
 
-[JS Comparison Table](https://dorey.github.io/JavaScript-Equality-Table/) pour se rendre compte qu'il faut **TOUJOURS** utiliser ===
-
-[Checklist de nouveau projet](https://github.com/STEAMULO/resources/blob/master/javascript-checklist-nouveau-projet.md)
+[Checklist de nouveau projet](https://github.com/STEAMULO/resources/blob/master/javascript-checklist-nouveau-projet.md) à appliquer en plus de la checklist générique.
 
 [Quelles librairies utiliser?](https://github.com/STEAMULO/resources/blob/master/javascript-les-libs.md)
 
