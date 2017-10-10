@@ -36,7 +36,8 @@ En cas de besoin plus poussés, on utilise Axios
 + \+ Layout à base de flexbox
 + \+ Lazy loading d'images
 
-
+### [RxJS](http://reactivex.io/rxjs/)
++ Reactive Programming
 
 ## Angular JS
 ### [Angular-swiper](https://github.com/ksachdeva/angular-swiper)
