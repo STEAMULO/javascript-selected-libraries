@@ -1,6 +1,6 @@
 # javascript-selected-libraries
 
-Ce document liste les librairies utilisées ou non recommandées à [Steamulo](http://www.steamulo.com/), dans un but d'unification de nos stacks entre les projets.
+e document liste les librairies utilisées chez [Steamulo](http://www.steamulo.com/) (et celles à fuir), dans un but d'unification de nos stacks entre les projets.
 C'est un document vivant, qui référence nos débats passés ou à venir, et les librairies à surveiller.
 
 ## Common
