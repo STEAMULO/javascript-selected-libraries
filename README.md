@@ -7,7 +7,8 @@ Bienvenue dans la bibliothèque de [Steamulo](http://www.steamulo.com/), où on 
 [Checklist générique de nouveau projet Steamulo](https://github.com/STEAMULO/resources/blob/master/checklist-nouveau-projet.md)
 
 ## Javascript / Typescript
-[JS Comparison Table](https://dorey.github.io/JavaScript-Equality-Table/) pour se rendre compte qu'il faut **TOUJOURS** utiliser
+
+[JS Comparison Table](https://dorey.github.io/JavaScript-Equality-Table/) pour se rendre compte qu'il faut **TOUJOURS** utiliser ===
 
 [Checklist de nouveau projet](https://github.com/STEAMULO/resources/blob/master/javascript-checklist-nouveau-projet.md) à appliquer en plus de la checklist générique.
 
