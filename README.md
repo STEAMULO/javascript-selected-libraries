@@ -5,6 +5,9 @@ Bienvenue dans la bibliothèque de [Steamulo](http://www.steamulo.com/), où on 
 * Comment fonctionnent les flexbox: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 ## Javascript / Typescript
+
+[JS Comparison Table](https://dorey.github.io/JavaScript-Equality-Table/) pour se rendre compte qu'il faut **TOUJOURS** utiliser ===
+
 [Checklist de nouveau projet](https://github.com/STEAMULO/resources/blob/master/javascript-checklist-nouveau-projet.md)
 
 [Quelles librairies utiliser?](https://github.com/STEAMULO/resources/blob/master/javascript-les-libs.md)
