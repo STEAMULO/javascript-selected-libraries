@@ -13,7 +13,7 @@
     Blog généraliste qui traite de nombreux sujets liés à iOS (Swift, Cocoa, ...).
     Même si le blog n'est plus régulièrement tenu à jour de nombreux articles valent le coup d'oeil.
     
-- [RayWenderLich](https://www.raywenderlich.com/)
+- [RayWenderlich](https://www.raywenderlich.com/)
 
     Site qui contient de nombreux tutorials, les tutorial sont régulièrement mis à jour pour être en accords avec
     les versions d'iOS et de Swift.
@@ -39,7 +39,7 @@
     
 - [OSSatus](https://www.osstatus.com/)
     
-    Site qui recensse les codes d'erreur Apple.
+    Site qui recense les codes d'erreur Apple.
 
 - [Liste des tailles d'iPhone](http://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions)
 
