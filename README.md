@@ -3,7 +3,7 @@ Bienvenue dans la bibliothèque de [Steamulo](http://www.steamulo.com/), où on 
 * Apprendre/Tester ses regex: https://regex101.com/
 * Apprendre/Tester les crontabs: https://crontab.guru/
 * Comment fonctionnent les flexbox: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-
+* Bien faire des breakpoints CSS: https://medium.freecodecamp.org/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862
 ## Javascript / Typescript
 
 [JS Comparison Table](https://dorey.github.io/JavaScript-Equality-Table/) pour se rendre compte qu'il faut **TOUJOURS** utiliser ===
