@@ -12,3 +12,6 @@ Bienvenue dans la bibliothèque de [Steamulo](http://www.steamulo.com/), où on 
 
 [Quelles librairies utiliser?](https://github.com/STEAMULO/resources/blob/master/javascript-les-libs.md)
 
+## iOS
+
+[Les ressources](https://github.com/STEAMULO/resources/blob/master/iOS/resources-iOS.md)
