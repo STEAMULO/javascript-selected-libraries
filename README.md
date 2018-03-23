@@ -6,11 +6,10 @@ Bienvenue dans la bibliothèque de [Steamulo](http://www.steamulo.com/), où on 
 * Bien faire des breakpoints CSS: https://medium.freecodecamp.org/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862
 ## Javascript / Typescript
 
-[JS Comparison Table](https://dorey.github.io/JavaScript-Equality-Table/) pour se rendre compte qu'il faut **TOUJOURS** utiliser ===
-
-[Checklist de nouveau projet](https://github.com/STEAMULO/resources/blob/master/javascript-checklist-nouveau-projet.md)
-
-[Quelles librairies utiliser?](https://github.com/STEAMULO/resources/blob/master/javascript-les-libs.md)
+* Tester sa configuration browserslist: http://browserl.ist/
+* [JS Comparison Table](https://dorey.github.io/JavaScript-Equality-Table/) pour se rendre compte qu'il faut **TOUJOURS** utiliser ===
+* [Checklist de nouveau projet](https://github.com/STEAMULO/resources/blob/master/javascript-checklist-nouveau-projet.md)
+* [Quelles librairies utiliser?](https://github.com/STEAMULO/resources/blob/master/javascript-les-libs.md)
 
 ## iOS
 
